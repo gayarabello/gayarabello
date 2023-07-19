@@ -2,7 +2,7 @@
 I'm a UX Engineer based in Leipzig, Germany. I'm passionate about building useful and usable products.
 
 ## 👀 Working with
-Vue, Nuxt, Javascript, SASS, CSS3, NPM, JEST, VisualStudioCode, Vuetify, Git, Github
+Vue, Nuxt, Javascript, SASS, CSS3, Storybook, Figma, NPM, JEST, VisualStudioCode, Vuetify, Git, Github
 
 ## 🌱 Learning
 Typescript, Node.js
